@@ -13,3 +13,17 @@ This tool attempts to identify and check activity on social media platforms (Fac
    ```bash
    git clone https://github.com/your-repo/SocialMediaChecker.git
    cd SocialMediaChecker
+
+```bash
+SocialMediaChecker/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/company/
+│   │           └── SocialMediaChecker.java
+│   └── test/
+│       └── java/
+│           └── com/company/
+│               └── SocialMediaCheckerTest.java
+├── pom.xml
+└── README.md
