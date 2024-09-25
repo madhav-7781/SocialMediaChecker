@@ -45,6 +45,12 @@ Add your API keys (e.g., Facebook access token) in the code.
 
 
 
+
+
+https://github.com/user-attachments/assets/6e57f508-659b-4caa-8bd4-4227539d1ceb
+
+
+
 ## Setup
 
 1. Clone the repository:
@@ -65,7 +71,3 @@ SocialMediaChecker/
 │               └── SocialMediaCheckerTest.java
 ├── pom.xml
 └── README.md
-
-
-
-
