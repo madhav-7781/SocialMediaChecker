@@ -7,9 +7,13 @@ This tool attempts to identify and check activity on social media platforms (Fac
 ## 1. Requirements
 
 Java 11 or later.
+
 Maven or Gradle for dependency management.
+
 REST Client Library (e.g., Unirest, OkHttp) to interact with social media APIs.
+
 JSoup for web scraping (if APIs are not feasible).
+
 JSON library like Gson for processing responses from APIs.
 
 
@@ -31,8 +35,11 @@ Facebook & Instagram: They offer APIs to fetch page details. You will need an AP
 To run the tool, you need:
 
 Install Java 11 or later.
+
 Install Maven or Gradle.
+
 Clone the repository.
+
 Add your API keys (e.g., Facebook access token) in the code.
 
 ## Setup
